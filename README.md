@@ -13,3 +13,4 @@ Ref: https://cs231n.github.io/neural-networks-3/#annealing-the-learning-rate
 Ref: https://www.jeremyjordan.me/nn-learning-rate/
 
 
+![alt text](http://url/to/img.png)://github.com/Diponly/Computer_Vision_Models/blob/master/Screen-Shot-2018-02-25-at-8.44.49-PM.png)
